@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="topic">WIFI连接</string>
+    <string name="IP">IP地址</string>
+    <string name="dk">端口号</string>
+    <string name="connect">连接</string>
+    <string name="cancel">取消</string>
+    <string name="tip">请输入IP地址</string>
+    <string name="tip2">请输入端口号</string>
+    <string name="connection">网络连接</string>
+    <string name="input">输入数据</string>
+    <string name="tip3">请输入传输数据</string>
+    <string name="warning">连接将在60s内完成，否则则为连接失败</string>
+    <string name="video">音乐频谱</string>
+    <string name="radio">3D动画</string>
+    <string name="selectm">选择音乐</string>
+    <string name="name">文件名</string>
+    <string name="path">路径</string>
+    <string name="btnplay_str">播放</string>
+
+</resources>
