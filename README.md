@@ -1,7 +1,7 @@
 # LED Player
 
 ## The Repository
-
+![image](picture/hardware.png) ![image](picture/hardware_operation.png)
 This repository is where I record my first attempt at system design, which is a  light cube with a PC animation editor and an Android App controller.
 
 ## App
