@@ -20,7 +20,7 @@ Developed a PC-side animation editor using Java  to realize frame editing of 3-D
 Input files to the serial port directly using the pc controller.  
 
 ## Hardware
-<img src="picture/PCB.png" width="200" height="400" alt="PCB"/><br/>
+<img src="picture/PCB.png" width="600" height="400" alt="PCB"/><br/>
 
 Used EasyEDA to design the PCB for the LED lights.  
 Used C++ to complete functionalities of SoC serial communication, WiFi communication, LCD liquid crystal display menu, ADC keyboard keys, 128-point FFT, lamp brightness control etc. 
