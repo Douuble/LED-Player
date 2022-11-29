@@ -1,7 +1,8 @@
 # LED Player
 
 ## The Repository
-![image](picture/hardware.png) ![image](picture/hardware_operation.png)
+![image](picture/hardware.png)  
+![image](picture/hardware_operation.png)
 This repository is where I record my first attempt at system design. This project uses the scanning 3D display technology based on the translation flat screen to design a light cube with a PC animation editor and an Android App controller, which can be used to provide 3D visual experience. The light cube can be connected to a computer through a USB port, and the computer software can control the cube to play animations.  It can also be connected to the mobile phone through the Wi-Fi module and controlled by the mobile APP software.  It can also collect the external sound from the onboard microphone, or input the sound signal from the audio interface, and display the music spectrum by the light cube.
 
 ## App
