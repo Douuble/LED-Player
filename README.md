@@ -8,7 +8,7 @@ This repository is where I record my first attempt at system design. This projec
 ## App
 Developed an Android program using Java to control the player.  
 
-<img src="picture/connection.png" width="200" height="400" alt="connection"/><br/> <img src="picture/selection_music.png" width="200" height="400" alt="selection_music"/><br/> <img src="picture/selection_animate.png" width="200" height="400" alt="selection_animate"/><br/> <img src="picture/modification.png" width="200" height="400" alt="modification"/><br/>
+<img src="picture/connection.png" width="200" height="400" alt="connection"/><br/><img src="picture/selection_music.png" width="200" height="400" alt="selection_music"/> <img src="picture/selection_animate.png" width="200" height="400" alt="selection_animate"/><br/> <img src="picture/modification.png" width="200" height="400" alt="modification"/><br/>
 
 ## Editor
 ![image](picture/editor.png)  
