@@ -11,7 +11,7 @@ Developed an Android program using Java to control the player.
 <img src="picture/connection.png" width="200" height="400" alt="connection"/> <img src="picture/selection_music.png" width="200" height="400" alt="selection_music"/> <img src="picture/selection_animat.png" width="200" height="400" alt="selection_animation"/> <img src="picture/modification.png" width="200" height="400" alt="modification"/><br/>
 
 ## Editor
-![image](picture/editor.png)  
+<img src="picture/editor.png" width="600" height="400" alt="editor"/><br/>
 
 Developed a PC-side animation editor using Java  to realize frame editing of 3-D animation.  
 
@@ -20,7 +20,7 @@ Developed a PC-side animation editor using Java  to realize frame editing of 3-D
 Input files to the serial port directly using the pc controller.  
 
 ## Hardware
-![image](picture/PCB.png)  
+<img src="picture/PCB.png" width="200" height="400" alt="PCB"/><br/>
 
 Used EasyEDA to design the PCB for the LED lights.  
 Used C++ to complete functionalities of SoC serial communication, WiFi communication, LCD liquid crystal display menu, ADC keyboard keys, 128-point FFT, lamp brightness control etc. 
